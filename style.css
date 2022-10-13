@@ -262,11 +262,11 @@ section {
 }
 
 .about .skills .progress .bar:nth-child(3) h3 {
-    width: 50%;
+    width: 80%;
 }
 
 .about .skills .progress .bar:nth-child(4) h3 {
-    width: 70%;
+    width: 50%;
 }
 
 .about .edu-exp .row {
